@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Double edge combat knife. (★ ☆☆☆☆)","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":122,"name":"Combat knife","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":1},
+{"id":2,"animationId":111,"description":"38 caliber handgun, easy to use with some training.\n(★★☆☆☆)","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Handgun","note":"","params":[0,0,8,0,0,0,0,0],"price":900,"wtypeId":9},
+{"id":3,"animationId":77,"description":"An electric gun for capture, effective for security, which is a machine\nweapon. (A normal attack turns into electricity.) (★★★ ☆☆)","etypeId":1,"traits":[{"code":31,"dataId":5,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":110,"name":"Taser gun","note":"","params":[0,0,8,0,0,0,0,0],"price":900,"wtypeId":9},
+{"id":4,"animationId":112,"description":"A full-auto shooting gun, an additional attack each time you make a normal attack\nI do. (★★★★ ☆)","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":34,"dataId":0,"value":1}],"iconIndex":124,"name":"submachine gun","note":"","params":[0,0,8,0,0,0,0,0],"price":500,"wtypeId":9},
+{"id":5,"animationId":69,"description":"Handheld launcher for firing grenade, attack on all enemies\nHit (★★★★★)","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":127,"name":"Grenade launcher","note":"<skill_id:25>","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":9}
+]
